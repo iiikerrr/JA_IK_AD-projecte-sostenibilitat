@@ -1,0 +1,1 @@
+# JA_IK_AD-projecte-sostenibilitat
