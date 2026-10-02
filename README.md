@@ -1,13 +1,19 @@
-# Nom de l’equip
-## Membres
-- Nom i cognoms — responsabilitat inicial
+# JAIKAD
+## 3 (Jaska, Iker i Adam)
+- Jaskaran Singh - Recerca, Coordinación
+- Iker Cañete Vega - Recerca, Gestión técnica/audiovisual
+- Adam Kharmich Karroum - Recerca, Documentación
 ## Descripció
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema
 Productiu. Durant el projecte identificarem un repte ambiental o social del
 nostre entorn i proposarem una solució tecnològica sostenible.
 ## Organització de l’equip
-Expliqueu breument com us organitzareu, com repartireu les tasques i com
-prendreu les decisions.
+Jaskaran Singh s’encarrega de la recerca i la coordinació de l’equip, 
+Iker Cañete Vega de la recerca i la gestió tècnica i audiovisual, i 
+Adam Kharmich Karroum de la recerca i la documentació.
 ## Primera reflexió
-Quins problemes ambientals o socials del centre, del barri o de la ciutat us
-agradaria investigar?
+Ens agradaria investigar la contaminació acústica al nostre institut, especialment 
+el nivell de soroll que hi ha en diferents espais i moments del dia. 
+Ens interessa estudiar com la tecnologia podria ajudar-nos a mesurar el 
+soroll i identificar les zones amb més contaminació acústica 
+per proposar possibles solucions.
