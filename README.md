@@ -4,9 +4,10 @@
 - Iker Cañete Vega - Recerca, Gestión técnica/audiovisual
 - Adam Kharmich Karroum - Recerca, Documentación
 ## Descripció
-Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema
-Productiu. Durant el projecte identificarem un repte ambiental o social del
-nostre entorn i proposarem una solució tecnològica sostenible.
+Som un equip de treball que investigarà la contaminació acústica al nostre institut. 
+Analitzarem els nivells de soroll en diferents espais i moments del dia mitjançant
+la tecnologia, amb l’objectiu de detectar les zones més afectades i proposar 
+una solució sostenible.
 ## Organització de l’equip
 Jaskaran Singh s’encarrega de la recerca i la coordinació de l’equip, 
 Iker Cañete Vega de la recerca i la gestió tècnica i audiovisual, i 
