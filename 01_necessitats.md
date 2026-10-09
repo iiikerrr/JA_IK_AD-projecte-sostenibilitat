@@ -2,10 +2,10 @@
 
 ## 1. Membres participants i rols
 
-* **Membre 1:** [Nom i cognoms] – Recerca d'informació i fonts.
-* **Membre 2:** [Nom i cognoms] – Anàlisi de les necessitats i persones afectades.
-* **Membre 3:** [Nom i cognoms] – Relació amb activitats econòmiques.
-* **Membre 4:** [Nom i cognoms] – Redacció i revisió del document.
+* **Membre 1:** [Iker Cañete] – Recerca d'informació i fonts.
+* **Membre 2:** [Jaskaran Singh] – Anàlisi de les necessitats i persones afectades.
+* **Membre 3:** [Adam Kharmich] – Relació amb activitats econòmiques.
+
 
 ## 2. Entorn analitzat
 
