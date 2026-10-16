@@ -2,9 +2,9 @@
 
 ## 1. Membres participants i rols
 
-* **Membre 1:** [Iker Cañete] – Recerca i gestió técnica/audiovisual
-* **Membre 2:** [Jaskaran Singh] – Recerca i coordinació
-* **Membre 3:** [Adam Kharmich] – Recerca i documentació
+* **Membre 1:** Iker Cañete – Recerca i gestió técnica/audiovisual
+* **Membre 2:** Jaskaran Singh – Recerca i coordinació
+* **Membre 3:** Adam Kharmich – Recerca i documentació
 
 ## 2. Entorn analitzat
 
