@@ -36,7 +36,7 @@ La necessitat d’un habitatge assequible està molt relacionada amb el sector i
 Creiem que la contaminació de l’aire, les onades de calor i el problema de l’habitatge podrien empitjorar en el futur si no es prenen mesures. El canvi climàtic pot augmentar els episodis de calor i la falta d’habitatge assequible pot continuar afectant la població.
 
 **5. Quines dues necessitats podrien convertir-se en el repte principal del vostre projecte?**  
-Les dues necessitats que podrien convertir-se en el repte principal són **facilitar l’accés a un habitatge de lloguer assequible** i **reduir la contaminació de l’aire**.
+Les dues necessitats que podrien convertir-se en el repte principal són facilitar l’accés a un habitatge de lloguer assequible i reduir la contaminació de l’aire.
 
 **6. Quina informació us falta per poder escollir entre aquestes dues necessitats?**  
 Ens faltaria conèixer amb més detall quantes persones estan afectades per cada problema, quines mesures ja s’han aplicat i quines solucions serien més fàcils i efectives de desenvolupar dins del nostre projecte.
