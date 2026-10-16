@@ -25,7 +25,7 @@ S'han seleccionat necessitats relacionades amb el canvi climàtic, la contaminac
 ## 3. Reflexió final
 
 **1. Quines necessitats considereu més urgents? Per què?**  
-Considerem més urgents l’accés a un habitatge assequible i la reducció de la contaminació de l’aire. Són problemes que afecten directament la qualitat de vida de les persones i que ja estan presents actualment a Barcelona.
+Considerem més urgents l’accés a un habitatge assequible, la reducció de la contaminació de l’aire i la contaminació acustica als instituts. Són problemes que afecten directament la qualitat de vida de les persones i que ja estan presents actualment a Barcelona.
 
 **2. Quines afecten un nombre més gran de persones?**  
 La contaminació de l’aire i les onades de calor afecten una gran part de la població, ja que poden tenir conseqüències sobre la salut de moltes persones, especialment dels col·lectius més vulnerables.
