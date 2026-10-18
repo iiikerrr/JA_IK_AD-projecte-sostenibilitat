@@ -7,4 +7,4 @@
 | Relació amb un sector productiu | 1 | 3 |
 | Possibilitat d’una solució tecnològica | 3 | 2 |
 | Possibilitat d’actuació local | 2 | 3 |
-| **Puntuació total** | 14 | 26 |
+| **Puntuació total** | 14 | 20 |
