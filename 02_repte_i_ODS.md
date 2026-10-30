@@ -85,6 +85,7 @@ Habitatge, construcció i immobiliàries.
     11.1 D'aquí a 2030, assegurar l'accés a totes les persones a habitatges i serveis bàsics adequats, segurs i assequibles i millorar els barris marginals.
     
 4.	Explicació de com el futur projecte podria contribuir-hi.
+   
    Contribueix a l’ODS 8 perquè relaciona la feina amb l’habitatge. L’app ajuda els joves a trobar ocupació a prop d’on poden viure i ofereix formació en
   	rehabilitació d’edificis, un sector amb futur. A més, defensa un turisme més equilibrat, que no expulsi els veïns i que sigui compatible amb la vida residencial.
 
