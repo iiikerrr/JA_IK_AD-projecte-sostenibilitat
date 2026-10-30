@@ -47,7 +47,7 @@ L'habitatge, segons la Constitució espanyola, és un dret que tenim tota la pob
 Habitatge, construcció i immobiliàries.
 
 
-##Part 2. Relació amb els ODS (Grupal)##
+## Part 2. Relació amb els ODS (Grupal)
 
 
 
