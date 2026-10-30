@@ -1,3 +1,11 @@
+## 1. Membres participants i rols
+
+* **Membre 1:** Iker Cañete – Recerca i gestió técnica/audiovisual
+* **Membre 2:** Jaskaran Singh – Recerca i coordinació
+* **Membre 3:** Adam Kharmich – Recerca i documen
+
+## Part 1. Definició del repte del projecte (Grupal)
+
 | Criteri | Contaminació acustica als instituts | habitatje de lloguer accessible |
 |---|---|---|
 | Importància i urgència | 2 | 3 |
@@ -39,7 +47,8 @@ L'habitatge, segons la Constitució espanyola, és un dret que tenim tota la pob
 Habitatge, construcció i immobiliàries.
 
 
-**Relació amb els ODS**
+##Part 2. Relació amb els ODS (Grupal)
+
 
 
 1.	Número i nom oficial de l’ODS.
@@ -55,6 +64,12 @@ Habitatge, construcció i immobiliàries.
     11.1 D'aquí a 2030, assegurar l'accés a totes les persones a habitatges i serveis bàsics adequats, segurs i assequibles i millorar els barris marginals.
     
 4.	Explicació de com el futur projecte podria contribuir-hi.
+   Llar BCN és una aplicació que he pensat per ajudar els joves a trobar i mantenir un habitatge a Barcelona, perquè molts coneixem algú que ha hagut de marxar de la ciutat pel preu dels lloguers.
+  	L’app ho posaria tot en un sol lloc: comprovar si un lloguer és legal, consultar ajuts i pisos de protecció oficial, buscar gent per compartir pis i saber què fer davant d’una pujada abusiva o
+  	un desnonament. També relacionaria ofertes de feina amb habitatge assequible i donaria accés a formació en rehabilitació d’edificis.
+
+   Llar BCN contribueix a l’ODS 11 perquè ajuda que viure a Barcelona sigui més accessible. Permet comprovar si un lloguer és legal, trobar ajuts i pisos de 
+   protecció oficial i conèixer els propis drets. Així, la gent pot quedar-se al seu barri en lloc d’haver de marxar, i la ciutat és més justa i inclusiva.
 
 1.	Número i nom oficial de l’ODS.
    
@@ -69,6 +84,10 @@ Habitatge, construcció i immobiliàries.
     11.1 D'aquí a 2030, assegurar l'accés a totes les persones a habitatges i serveis bàsics adequats, segurs i assequibles i millorar els barris marginals.
     
 4.	Explicació de com el futur projecte podria contribuir-hi.
+   Contribueix a l’ODS 8 perquè relaciona la feina amb l’habitatge. L’app ajuda els joves a trobar ocupació a prop d’on poden viure i ofereix formació en
+  	rehabilitació d’edificis, un sector amb futur. A més, defensa un turisme més equilibrat, que no expulsi els veïns i que sigui compatible amb la vida residencial.
+
+   
 
     
 
