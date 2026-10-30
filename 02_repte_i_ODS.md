@@ -64,6 +64,7 @@ Habitatge, construcció i immobiliàries.
     11.1 D'aquí a 2030, assegurar l'accés a totes les persones a habitatges i serveis bàsics adequats, segurs i assequibles i millorar els barris marginals.
     
 4.	Explicació de com el futur projecte podria contribuir-hi.
+   
    Llar BCN és una aplicació que he pensat per ajudar els joves a trobar i mantenir un habitatge a Barcelona, perquè molts coneixem algú que ha hagut de marxar de la ciutat pel preu dels lloguers.
   	L’app ho posaria tot en un sol lloc: comprovar si un lloguer és legal, consultar ajuts i pisos de protecció oficial, buscar gent per compartir pis i saber què fer davant d’una pujada abusiva o
   	un desnonament. També relacionaria ofertes de feina amb habitatge assequible i donaria accés a formació en rehabilitació d’edificis.
