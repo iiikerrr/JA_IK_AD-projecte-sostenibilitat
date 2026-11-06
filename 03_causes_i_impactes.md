@@ -7,7 +7,7 @@
 
 ## 2. Arbre
 
-<img alt='imatge_arbre_problemes' src='https://github.com/iiikerrr/JA_IK_AD-projecte-sostenibilitat/blob/main/jaskad_arbol%20de%20problemas_page-0001.jpg'/>
+<img alt='imatge_arbre_problemes' src='https://github.com/iiikerrr/JA_IK_AD-projecte-sostenibilitat/blob/main/jaikad_arbol%20de%20problemas.jpg'/>
 
 ## 3.	Causes les arrels 
 
