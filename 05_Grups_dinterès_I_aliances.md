@@ -1,10 +1,6 @@
 # Activitat 1.5. Grups d'interès i aliances
 
 ## 1. Membres i rols
-| Membre | Rol en l'elaboració |
-|---|---|
-| Iker Cañete Vega | (p. ex. redacció de la taula d'anàlisi) |
-| | |
 
 ## 2. Definició i classificació dels grups d'interès
 
