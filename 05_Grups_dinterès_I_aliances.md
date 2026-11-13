@@ -1,7 +1,9 @@
 # Activitat 1.5. Grups d'interès i aliances
 
 ## 1. Membres i rols
-
+* **Membre 1:** Iker Cañete – Recerca i gestió técnica/audiovisual
+* **Membre 2:** Jaskaran Singh – Recerca i coordinació
+* **Membre 3:** Adam Kharmich – Recerca i documentació
 ## 2. Definició i classificació dels grups d'interès
 
 Plantegem Llar BCN des de l'**equip promotor de l'aplicació** (intern). La resta d'actors són externs.
@@ -57,7 +59,6 @@ quadrantChart
     Formació i empreses (E): [0.25, 0.25]
 ```
 
-(I) = intern, (E) = extern. Si el professor demana diferenciar-los per colors, feu el mapa també a Canva o diagrams.net: intern en un color i externs en un altre.
 
 ## 5. Els tres grups més rellevants
 
@@ -100,7 +101,6 @@ quadrantChart
 - **Dificultat:** capacitat limitada de les entitats i protecció de dades.
 - **Com iniciar-la:** una reunió informativa per presentar el projecte.
 
-> Si no heu verificat que existeixi un conveni real, indiqueu que ambdues aliances són **potencials/hipotètiques**. Abans, consulteu amb la resta de la classe si algun equip treballa temes complementaris.
 
 ## 7. Fonts d'informació consultades
 - Dades del preu per m² a Barcelona (cal citar la font exacta amb enllaç i data).
