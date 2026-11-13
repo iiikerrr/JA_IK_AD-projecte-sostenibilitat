@@ -6,35 +6,33 @@
 * **Membre 3:** Adam Kharmich – Recerca i documentació
 ## 2. Definició i classificació dels grups d'interès
 
-Plantegem Llar BCN des de l'**equip promotor de l'aplicació** (intern). La resta d'actors són externs.
-
 | # | Grup | Tipus | Definició |
 |---|---|---|---|
-| 1 | Equip promotor de Llar BCN | Intern | Persones que desenvolupen i mantenen l'app. |
-| 2 | Joves llogaters (18-35 anys) | Extern | Usuaris principals; pateixen els preus i els sous baixos. |
-| 3 | Gent gran amb pensions baixes | Extern | Afectats per pujades i per la possibilitat de desnonament. |
-| 4 | Ajuntament de Barcelona | Extern | Competent en habitatge, ajuts i habitatge de protecció oficial. |
-| 5 | Generalitat de Catalunya | Extern | Fixa la regulació del lloguer i gestiona ajuts. |
-| 6 | Propietaris i immobiliàries | Extern | Fixen preus; poden complir o no la regulació. |
-| 7 | Fons d'inversió / fons voltors | Extern | Generen o agreugen el problema (especulació). |
-| 8 | Entitats socials i sindicats de llogaters | Extern | Assessoren i defensen els afectats. |
-| 9 | Sector de la construcció i la rehabilitació | Extern | Poden crear habitatge i ocupació en rehabilitació. |
-| 10 | Centres de formació i empreses locals | Extern | Formació i ofertes de feina vinculades a l'habitatge. |
+| 1 | Equip de desenvolupament | Intern | Persones que dissenyen, programen i mantenen l'app. |
+| 2 | Equip jurídic i de continguts | Intern | Persones que revisen la normativa de lloguer, ajuts i HPO i la tradueixen a contingut comprensible. |
+| 3 | Equip de comunicació i atenció a l'usuari | Intern | Persones que difonen el projecte, recullen opinions i atenen dubtes dels usuaris. |
+| 4 | Joves llogaters (18-35 anys) | Extern | Usuaris principals; pateixen els preus i els sous baixos. |
+| 5 | Gent gran amb pensions baixes | Extern | Afectats per pujades i pel risc de desnonament. |
+| 6 | Ajuntament de Barcelona | Extern | Competent en habitatge, ajuts i habitatge de protecció oficial. |
+| 7 | Generalitat de Catalunya | Extern | Fixa la regulació del lloguer i gestiona ajuts. |
+| 8 | Propietaris, immobiliàries i fons d'inversió | Extern | Fixen preus; part d'ells contribueix a l'especulació (fons voltors). |
+| 9 | Entitats socials i sindicats de llogaters | Extern | Assessoren i defensen els afectats. |
+| 10 | Sector de la construcció, rehabilitació i formació | Extern | Empreses i centres que poden crear habitatge, ocupació i formació en rehabilitació. |
 
 ## 3. Taula d'anàlisi
 
 | Grup | Intern / Extern | Com li afecta el problema? | Què necessita o espera? | Afectació | Influència | Paper en la solució |
 |---|---|---|---|---|---|---|
-| Equip promotor | Intern | Pot obtenir benefici si es resol; ha de gestionar-ne els efectes via l'app | Dades fiables, finançament, usuaris | Mitjà | Alta | Desenvolupar i mantenir l'app |
+| Equip de desenvolupament | Intern | Pot obtenir un benefici si el projecte funciona; ha de gestionar els efectes mitjançant l'app | Dades fiables, temps, recursos tècnics | Mitjà | Alta | Desenvolupar i mantenir l'app |
+| Equip jurídic i de continguts | Intern | Ha de gestionar els efectes: la normativa canvia i cal explicar-la bé | Fonts oficials, assessorament legal | Mitjà | Mitjana | Verificar la legalitat dels lloguers i redactar guies de drets |
+| Equip de comunicació i atenció | Intern | Rep consultes de persones afectades i pot veure afectada la seva feina si l'app no funciona | Canals de difusió, retorn dels usuaris | Mitjà | Mitjana | Sensibilitzar, captar usuaris i recollir propostes de millora |
 | Joves llogaters | Extern | Pateixen directament els preus i la marxa de la ciutat | Informació, ajuts, lloguers assequibles | Alt | Baixa | Utilitzar i validar l'app, compartir pis |
 | Gent gran | Extern | Pateixen directament; risc de desnonament amb pensions baixes | Protecció, assessorament, estabilitat | Alt | Baixa | Aportar testimonis, ser atesos per les entitats |
-| Ajuntament | Extern | Ha de gestionar els efectes socials | Compliment de normes, cohesió | Mitjà | Alta | Dades, ajuts, HPO, difusió |
-| Generalitat | Extern | Ha de gestionar els efectes | Compliment de la regulació | Mitjà | Alta | Establir normes i finançar |
-| Propietaris i immobiliàries | Extern | Poden veure afectada la seva activitat per la regulació | Rendibilitat, seguretat jurídica | Mitjà | Alta | Oferir lloguers assequibles i complir la normativa |
-| Fons voltors | Extern | Contribueixen al problema; veurien afectat el negoci | Rendibilitat | Baix | Alta | Principal actor a limitar (dialèg i pressió) |
+| Ajuntament de Barcelona | Extern | Ha de gestionar els efectes socials | Compliment de normes, cohesió social | Mitjà | Alta | Dades, ajuts, HPO, difusió |
+| Generalitat de Catalunya | Extern | Ha de gestionar els efectes | Compliment de la regulació | Mitjà | Alta | Establir normes i finançar |
+| Propietaris, immobiliàries i fons | Extern | Generen o contribueixen al problema; poden veure afectada la seva activitat per la regulació | Rendibilitat, seguretat jurídica | Mitjà | Alta | Oferir lloguers assequibles i complir la normativa; limitar l'especulació |
 | Entitats socials i sindicats | Extern | Gestionen casos de desnonament i pujades | Recursos, visibilitat, coordinació | Alt | Mitjana | Assessorar, formar, sensibilitzar |
-| Construcció i rehabilitació | Extern | Poden obtenir un benefici si es resol | Demanda, mà d'obra qualificada | Mitjà | Mitjana | Rehabilitar i oferir feina |
-| Centres de formació i empreses | Extern | Els seus alumnes/treballadors no poden viure a prop | Inserció laboral | Baix | Baixa | Formació i ofertes de feina |
+| Construcció, rehabilitació i formació | Extern | Poden obtenir un benefici si es resol | Demanda, mà d'obra qualificada, inserció laboral | Baix | Mitjana | Rehabilitar, oferir feina i formació |
 
 ## 4. Mapa d'influència i afectació
 
