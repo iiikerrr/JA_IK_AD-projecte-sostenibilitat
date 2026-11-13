@@ -38,26 +38,6 @@ Plantegem Llar BCN des de l'**equip promotor de l'aplicació** (intern). La rest
 
 ## 4. Mapa d'influència i afectació
 
-```mermaid
-quadrantChart
-    title Mapa de grups d'interès
-    x-axis Influència baixa --> Influència alta
-    y-axis Afectació baixa --> Afectació alta
-    quadrant-1 Implicar activament
-    quadrant-2 Escoltar i protegir
-    quadrant-3 Seguiment general
-    quadrant-4 Informar i buscar suport
-    Equip promotor (I): [0.80, 0.55]
-    Ajuntament (E): [0.90, 0.60]
-    Generalitat (E): [0.85, 0.50]
-    Propietaris (E): [0.75, 0.45]
-    Fons voltors (E): [0.85, 0.20]
-    Joves (E): [0.20, 0.90]
-    Gent gran (E): [0.15, 0.85]
-    Entitats socials (E): [0.45, 0.80]
-    Construcció (E): [0.45, 0.45]
-    Formació i empreses (E): [0.25, 0.25]
-```
 
 
 ## 5. Els tres grups més rellevants
